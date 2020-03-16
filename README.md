@@ -1,12 +1,5 @@
 # Wiggle
 Android developer tool, that you shake to open
 
-```
-repositories {
-        jcenter()
-        maven { url "https://jitpack.io" }
-   }
-   dependencies {
-         implementation 'com.github.jitpack:gradle-simple:1.0'
-   }
-```
+[![](https://jitpack.io/v/Tsunaze/Wiggle.svg)](https://jitpack.io/#Tsunaze/Wiggle)
+
